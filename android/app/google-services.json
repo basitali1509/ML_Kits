@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "253710077782",
+    "project_id": "ml-kit-7733a",
+    "storage_bucket": "ml-kit-7733a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253710077782:android:46f7133b10b925271f90f7",
+        "android_client_info": {
+          "package_name": "com.basitali.ml_kits"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "253710077782-9hduuhjhkm6okr3bv0eblujm98k51grr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEfJ8H2SXiNgiFCzkLWC10TG5WhE2IkA0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "253710077782-9hduuhjhkm6okr3bv0eblujm98k51grr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
